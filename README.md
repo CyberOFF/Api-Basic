@@ -1,3 +1,8 @@
 # Api-Basic
-## Cadastro Name e Message
-### Delete pelo /mural/:id
+
+
+## Funçoes
+
+Listagem e Criação de Usuarios e Mensagens no /mural\
+Delete By ID pelo /mural/:id\
+Update pelo ID pelo req.body({id})\
